@@ -3,7 +3,7 @@ body {
 }
 
 #welcome {
-    color: floralwhite;
+    color: black;
     bottom: 0;
     background: linear-gradient (#60ebeb 0%, #270e60 100%);
     display: table;
